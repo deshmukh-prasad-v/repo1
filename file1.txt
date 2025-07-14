@@ -1,1 +1,2 @@
 line added to file1.txt
+lines added on server side
