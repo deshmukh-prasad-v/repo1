@@ -8,7 +8,12 @@ more lines
 again morelines
 >>>>>>> 0a24497 (local changes)
 lines added locally 2.42pm
+<<<<<<< HEAD
 =======
 lines added on server side
 lines added 2.43pm on server
 >>>>>>> 8b81166c9dfe0a4ec00e182e536a307390f23118
+=======
+
+changes through branch1
+>>>>>>> branch1
