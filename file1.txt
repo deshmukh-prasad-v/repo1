@@ -7,3 +7,5 @@ more lines
 again morelines
 >>>>>>> 0a24497 (local changes)
 lines added locally 2.42pm
+
+changes through branch1
