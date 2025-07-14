@@ -2,8 +2,13 @@ line added to file1.txt
 <<<<<<< HEAD
 lines added on server side
 lines added 2.38pm on server
+<<<<<<< HEAD
 =======
 more lines
 again morelines
 >>>>>>> 0a24497 (local changes)
 lines added locally 2.42pm
+=======
+lines added on server side
+lines added 2.43pm on server
+>>>>>>> 8b81166c9dfe0a4ec00e182e536a307390f23118
